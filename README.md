@@ -1,9 +1,5 @@
 # 🎀 Welcome to Akshara's Coding Space! ✨
 
-<p align="left">
-  <img src="https://herokuapp.com+👋;Winner+of+Sustainathon+🏆;Full+Stack+Web+Developer+💻;Always+Ready+to+Hack!+🚀" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🌸 About Me
@@ -40,9 +36,11 @@ Hi there! I'm a tech enthusiast passionate about building sustainable solutions,
 
 <p align="left">
   <img src="https://vercel.app" alt="Akshara's GitHub stats" width="48%" />
-  <img src="https://herokuapp.com" alt="Akshara's GitHub streak" width="48%" />
+  <img src="https://vercel.app" alt="Akshara's Top Languages" width="48%" />
 </p>
 
+---
+
 <p align="left">
-  <img src="https://vercel.app" alt="Akshara's Top Languages" width="380" />
+  <img src="https://komarev.com" alt="Akshara1057" />
 </p>
