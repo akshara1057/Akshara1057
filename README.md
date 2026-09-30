@@ -116,21 +116,6 @@ A web application for generating content through an AI-powered backend API with 
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshara1057&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="Akshara's GitHub Trophies" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshara1057&theme=tokyo-night&hide_border=true&area=true" alt="Akshara's Contribution Graph" />
-</p>
-
----
 
 ## 🌱 Currently Working On
 
