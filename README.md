@@ -1,38 +1,52 @@
-# 🎀 Welcome to Akshara's Coding Space! ✨
+# < Akshara Goyal /> 🎀
+
+### 🚀 Tech Enthusiast | Full Stack Web Developer in Making ✨
 
 ---
 
-### 🌸 About Me
+## 👨‍💻 About Me
 
-Hi there! I'm a tech enthusiast passionate about building sustainable solutions, writing clean code, and solving real-world problems! ✨
+Hi there! I'm passionate about building sustainable solutions, writing clean code, and solving real-world problems! ✨
 
-* 🔭 **I’m currently working on** :: Enhancing my development skills and building mini tech projects.
-* 🤝 **I’m looking to collaborate on** :: Innovative Hackathons, Open-Source projects, and Green-Tech solutions.
-* 🌱 **I’m currently learning** :: Full Stack Web Development and exploring advanced problem-solving.
-* 💬 **Ask me about** :: Web Development, Hackathon strategies, and Sustainable Tech.
-* ⚡ **Fun fact** :: I convert bugs into features and coffee into code! ☕
+- 🎯 **Current Focus:** Full Stack Web Development & Advanced Problem-Solving.
+- 💡 **Interests:** Hackathons, Open-Source projects, and Green-Tech solutions.
+- ⚡ **Fun Fact:** I convert bugs into features and coffee into code! ☕
 
-### 🏆 Achievements
-* 🥇 **Secured 3rd Position** at **Sustainathon, Thapar University** 🎉
-* 🌟 **Finalist** in **5+ National/University level Hackathons** 🚀
+"Building innovative tech to solve real-world challenges. 🚀"
 
 ---
 
-### 🌐 Connect With Me
+## 🛠 Tech Stack & Tools
 
-* 💼 **LinkedIn:** [akshara-goyal-b900b93ba](https://linkedin.com)
-* 📧 **Email:** [aksharagoyal0306@gmail.com](mailto:aksharagoyal0306@gmail.com)
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>C++, Java, JavaScript, PHP</td>
+  </tr>
+  <tr>
+    <td><b>Web Dev & Frontend</b></td>
+    <td>HTML5, JavaScript</td>
+  </tr>
+  <tr>
+    <td><b>Backend & Environments</b></td>
+    <td>Node.js, PHP</td>
+  </tr>
+</table>
 
 ---
 
-### 💻 Tech Stack & Tools
+## 🏆 Achievements
 
-* **Languages:** `C++` | `Java` | `JavaScript` | `PHP`
-* **Web Dev:** `HTML5` | `Node.js`
+"Code that works is great. Code that scales is better."
+
+* 🥇 **Winner | Sustainathon, Thapar University**
+  Secured **3rd Position** by building sustainable tech solutions! 🎉
+* 🏅 **Top Finalist | 5+ Hackathons**
+  Recognized for strong problem-solving and rapid development skills. 🌟
 
 ---
 
-### 📊 GitHub Analysis
+## 📊 GitHub Stats
 
 <p align="left">
   <img src="https://vercel.app" alt="Akshara's GitHub stats" width="48%" />
@@ -41,6 +55,14 @@ Hi there! I'm a tech enthusiast passionate about building sustainable solutions,
 
 ---
 
+## 💬 Let's Connect!
+
+I'm always open to collaborating on web development projects, hackathons, and learning new technologies. Feel free to reach out!
+
+* 💼 **LinkedIn:** [akshara-goyal-b900b93ba](https://linkedin.com)
+* 📧 **Email:** [aksharagoyal0306@gmail.com](mailto:aksharagoyal0306@gmail.com)
+
+---
 <p align="left">
   <img src="https://komarev.com" alt="Akshara1057" />
 </p>
