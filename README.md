@@ -46,11 +46,11 @@ Hi there! I'm passionate about building sustainable solutions, writing clean cod
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analysis
 
 <p align="left">
-  <img src="https://vercel.app" alt="Akshara's GitHub stats" width="48%" />
-  <img src="https://vercel.app" alt="Akshara's Top Languages" width="48%" />
+  <img src="https://shion.dev" alt="Akshara's GitHub stats" width="48%" />
+  <img src="https://shion.dev" alt="Akshara's Top Languages" width="48%" />
 </p>
 
 ---
