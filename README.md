@@ -1,35 +1,45 @@
 # < Akshara Goyal /> 🎀
 
-### 🚀 Tech Enthusiast | Full Stack Web Developer in Making ✨
+### 🚀 Tech Enthusiast | Full Stack Web Developer in Making
 
 ---
 
-## 👨‍💻 About Me
+## 👩‍💻 About Me
 
-Hi there! I'm passionate about building sustainable solutions, writing clean code, and solving real-world problems! ✨
+Hi! I'm **Akshara Goyal**, a Computer Science Engineering student passionate about building practical solutions and continuously improving my problem-solving skills.
 
-- 🎯 **Current Focus:** Full Stack Web Development & Advanced Problem-Solving.
-- 💡 **Interests:** Hackathons, Open-Source projects, and Green-Tech solutions.
-- ⚡ **Fun Fact:** I convert bugs into features and coffee into code! ☕
+* 🎯 **Currently Focused On:** Full Stack Web Development & DSA
+* 💻 **Exploring:** React, Node.js, PHP, JavaScript & Java
+* 🧩 **Interests:** Hackathons, Web Development, Open Source & Problem Solving
+* 🌱 **Currently Learning:** Advanced Data Structures & Full Stack Development
+* ⚡ **Fun Fact:** I turn bugs into learning opportunities and ideas into projects! ☕
 
-"Building innovative tech to solve real-world challenges. 🚀"
+> *"Building innovative technology to solve real-world challenges."* 🚀
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 <table>
   <tr>
     <td><b>Languages</b></td>
-    <td>C++, Java, JavaScript, PHP</td>
+    <td>Java • JavaScript • PHP • C++</td>
   </tr>
   <tr>
-    <td><b>Web Dev & Frontend</b></td>
-    <td>HTML5, JavaScript</td>
+    <td><b>Frontend</b></td>
+    <td>HTML5 • CSS3 • JavaScript • React.js</td>
   </tr>
   <tr>
-    <td><b>Backend & Environments</b></td>
-    <td>Node.js, PHP</td>
+    <td><b>Backend</b></td>
+    <td>Node.js • PHP</td>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td>MySQL • MongoDB</td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>Git • GitHub • VS Code</td>
   </tr>
 </table>
 
@@ -37,32 +47,71 @@ Hi there! I'm passionate about building sustainable solutions, writing clean cod
 
 ## 🏆 Achievements
 
-"Code that works is great. Code that scales is better."
+* 🥉 **3rd Position — SUSTAINATHON**
 
-* 🥇 **Winner | Sustainathon, Thapar University**
-  Secured **3rd Position** by building sustainable tech solutions! 🎉
-* 🏅 **Top Finalist | 5+ Hackathons**
-  Recognized for strong problem-solving and rapid development skills. 🌟
+  * Enactus, Thapar University
+  * Worked on a sustainable business case study with the team.
+
+* 💻 **Hackathons & Technical Events**
+
+  * Participated in multiple hackathons and technical challenges focused on problem-solving and building practical solutions.
 
 ---
 
-## 📊 GitHub Analysis
+## 🚀 Featured Projects
 
-<p align="left">
-  <img src="https://shion.dev" alt="Akshara's GitHub stats" width="48%" />
-  <img src="https://shion.dev" alt="Akshara's Top Languages" width="48%" />
+### 📌 CU Attendance Management System
+
+A web-based attendance management system designed for students, teachers, administrators and HODs.
+
+**Tech:** PHP • MySQL • HTML • CSS • JavaScript
+
+### 📌 Advertisement Spend vs Sales Analysis
+
+A data analysis project exploring the relationship between advertising expenditure and sales using Python and Streamlit.
+
+**Tech:** Python • Pandas • Streamlit • Data Analysis
+
+### 📌 ContentGen — AI Content Generation Platform
+
+A web application for generating content through an AI-powered backend API.
+
+**Tech:** React • JavaScript • API Integration
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshara1057&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshara1057&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
-## 💬 Let's Connect!
+## 🌱 Currently Working On
 
-I'm always open to collaborating on web development projects, hackathons, and learning new technologies. Feel free to reach out!
+* 📚 Strengthening Data Structures & Algorithms
+* ⚛️ Building projects with React
+* 🌐 Improving Full Stack Development skills
+* 🏗️ Building real-world web applications
+* 💡 Participating in hackathons and technical challenges
 
-* 💼 **LinkedIn:** [akshara-goyal-b900b93ba](https://linkedin.com)
+---
+
+## 🤝 Let's Connect
+
+I'm always open to collaborating on interesting projects, hackathons, and learning opportunities.
+
+* 💼 **LinkedIn:** [akshara-goyal-b900b93ba](https://linkedin.com/in/akshara-goyal-b900b93ba)
 * 📧 **Email:** [aksharagoyal0306@gmail.com](mailto:aksharagoyal0306@gmail.com)
 
 ---
-<p align="left">
-  <img src="https://komarev.com" alt="Akshara1057" />
+
+<p align="center">
+  <i>✨ Keep learning. Keep building. Keep growing. ✨</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akshara1057&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
